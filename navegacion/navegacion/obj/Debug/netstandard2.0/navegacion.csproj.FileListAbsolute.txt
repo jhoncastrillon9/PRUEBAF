@@ -1,0 +1,17 @@
+C:\navegacion\navegacion\navegacion\bin\Debug\netstandard2.0\navegacion.deps.json
+C:\navegacion\navegacion\navegacion\bin\Debug\netstandard2.0\navegacion.dll
+C:\navegacion\navegacion\navegacion\bin\Debug\netstandard2.0\navegacion.pdb
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\Views\ContactoPage.xaml.g.cs
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\Views\DetallePage.xaml.g.cs
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\navegacion.csproj.CoreCompileInputs.cache
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\navegacion.AssemblyInfoInputs.cache
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\navegacion.AssemblyInfo.cs
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\navegacion.dll
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\navegacion.pdb
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\Views\ImagenDetallePage.xaml.g.cs
+C:\navegacion\navegacion\navegacion\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs

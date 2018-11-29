@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:navegacion"
+            xmlns:Views="clr-namespace:navegacion.Views"
+            x:Class="navegacion.MainPage"
+                  NavigationPage.HasNavigationBar="False">
+
+    <MasterDetailPage.Master>
+        <ContentPage Title="MAsterTitle">
+            <StackLayout Orientation="Vertical">
+                <Button Text="Inicio" Clicked="Inicio_Clicked"></Button>
+                <Button Text="Proyectos" Clicked="Proyectos_clicked"></Button>
+              <Button Text="Nosotros" Clicked="Acerca_c"></Button>
+                <Button Text="Salir" Clicked="Salir_clicked"></Button>                
+            </StackLayout>
+        </ContentPage>    
+    </MasterDetailPage.Master>
+    
+    <MasterDetailPage.Detail>        
+            <NavigationPage>
+                <x:Arguments>
+                <Views:HomePage />
+                </x:Arguments>
+            </NavigationPage>      
+    </MasterDetailPage.Detail>
+
+</MasterDetailPage>
